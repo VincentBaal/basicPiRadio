@@ -6,7 +6,7 @@ This radio uses a simple circuit of 4 leds and two buttons to function. A diagra
 ## Requirements
 This script requires VLC and VLC-python. Install the latter with
 `
-pip installer python-vlc
+pip install python-vlc
 `
 
 ## Channels
